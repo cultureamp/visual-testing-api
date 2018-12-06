@@ -2,6 +2,8 @@
 
 This is an open source project which is a copy of visual-droid api. The code is provided as is without any guarantee or warranties. We have no active maintainers for this repository.
 
+If you have questions, ask the Front End Capability Team at Culture Amp (#team_front_end in #camp_amplify)
+
 Original documentation is below
 
 # visual-droid
